@@ -1,5 +1,5 @@
 
-## Olá estou me aprimorando o maximo nessas linguagens 
+## Oi, essa as linguagens que tenho um pouquinho de conhecimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raps://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
